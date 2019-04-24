@@ -1,0 +1,19 @@
+{
+  "name": "@hyron/static-dir",
+  "version": "1.0.1",
+  "description": "return to client static file from specific directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon test/random.js"
+  },
+  "keywords": [
+    "hyron",
+    "addons",
+    "static"
+  ],
+  "devDependencies": {
+    "hyron": "^2.6.10"
+  },
+  "author": "thangphung",
+  "license": "ISC"
+}
